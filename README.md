@@ -16,9 +16,9 @@ This application is designed to transcribe video files into text using Google's 
 
 You need to install the following Python packages:
 
-""""bash
+```bash
 pip install --upgrade google-cloud-speech google-cloud-storage srt pydub
-""""
+```
 
 ### Install FFmpeg
 
